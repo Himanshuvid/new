@@ -1,2 +1,2 @@
 # new
-This is the my learning repo
+This is the my learning repo.
